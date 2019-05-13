@@ -1,0 +1,60 @@
+body {
+	width: 100vw;
+	height: 100vh;
+	display: block;
+	background-color:#5c42f4;
+	margin: 0;
+
+}
+
+.pink1{
+	height: 50%;
+	width: 100%;
+	display: flex;
+	background-color: #f442bf;
+}
+
+.pink2{
+	height: 50%;
+	width: 100%;
+	display: flex;
+	background-color: #f442bf;
+}
+
+.blue{
+	display:flex;
+	height: 100%;
+	width: 85%;
+	background-color: #029EE8;
+}
+
+.purple {
+	display: block;
+	height: 20%;
+	width: 100%;
+	background-color:#9E64FF;
+}
+
+
+.side1{
+	height: 100%;
+	width: 15%;
+	background-color: #536582;
+	display:flex;
+}
+
+.side2{
+	height: 50%;
+	width: 25%;
+	background-color: #536582;
+	display: flex;
+	float: right;
+}
+
+.side3{
+	height: 50%;
+	width: 25%;
+	background-color: black;
+	display: block;
+	justify-content: center;
+}
